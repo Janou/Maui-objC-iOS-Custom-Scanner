@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\papaj\\source\\repos\\Maui-objC-iOS-Custom-Scanner-Service\\Maui-objC-iOS-Custom-Scanner-Service\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\scopedcss\\bundle\\Maui-objC-iOS-Custom-Scanner-Service.styles.css",
+      "PackagePath": "staticwebassets\\Maui-objC-iOS-Custom-Scanner-Service.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\papaj\\source\\repos\\Maui-objC-iOS-Custom-Scanner-Service\\Maui-objC-iOS-Custom-Scanner-Service\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\papaj\\source\\repos\\Maui-objC-iOS-Custom-Scanner-Service\\Maui-objC-iOS-Custom-Scanner-Service\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\papaj\\source\\repos\\Maui-objC-iOS-Custom-Scanner-Service\\Maui-objC-iOS-Custom-Scanner-Service\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\papaj\\source\\repos\\Maui-objC-iOS-Custom-Scanner-Service\\Maui-objC-iOS-Custom-Scanner-Service\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.Maui-objC-iOS-Custom-Scanner-Service.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.Maui-objC-iOS-Custom-Scanner-Service.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.build.Maui-objC-iOS-Custom-Scanner-Service.props",
+      "PackagePath": "build\\Maui-objC-iOS-Custom-Scanner-Service.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.buildMultiTargeting.Maui-objC-iOS-Custom-Scanner-Service.props",
+      "PackagePath": "buildMultiTargeting\\Maui-objC-iOS-Custom-Scanner-Service.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.buildTransitive.Maui-objC-iOS-Custom-Scanner-Service.props",
+      "PackagePath": "buildTransitive\\Maui-objC-iOS-Custom-Scanner-Service.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

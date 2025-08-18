@@ -1,0 +1,116 @@
+<api
+  api-source="class-parse">
+  <package
+    name="com.skupad.scanner"
+    jni-name="com/skupad/scanner">
+    <class
+      abstract="false"
+      deprecated="not deprecated"
+      jni-extends="Ljava/lang/Object;"
+      extends="java.lang.Object"
+      extends-generic-aware="java.lang.Object"
+      final="false"
+      name="CustomScanner"
+      jni-signature="Lcom/skupad/scanner/CustomScanner;"
+      source-file-name="CustomScanner.java"
+      static="false"
+      visibility="public">
+      <constructor
+        deprecated="not deprecated"
+        final="false"
+        name="CustomScanner"
+        static="false"
+        visibility="public"
+        bridge="false"
+        synthetic="false"
+        jni-signature="()V" />
+      <method
+        abstract="false"
+        deprecated="not deprecated"
+        final="false"
+        name="startScanner"
+        native="false"
+        return="void"
+        jni-return="V"
+        static="true"
+        synchronized="false"
+        visibility="public"
+        bridge="false"
+        synthetic="false"
+        jni-signature="(Landroid/app/Activity;IIIILcom/skupad/scanner/CustomScanner$ResultListener;)V">
+        <parameter
+          name="activity"
+          type="android.app.Activity"
+          jni-type="Landroid/app/Activity;" />
+        <parameter
+          name="x"
+          type="int"
+          jni-type="I" />
+        <parameter
+          name="y"
+          type="int"
+          jni-type="I" />
+        <parameter
+          name="width"
+          type="int"
+          jni-type="I" />
+        <parameter
+          name="height"
+          type="int"
+          jni-type="I" />
+        <parameter
+          name="listener"
+          type="com.skupad.scanner.CustomScanner.ResultListener"
+          jni-type="Lcom/skupad/scanner/CustomScanner$ResultListener;" />
+      </method>
+      <method
+        abstract="false"
+        deprecated="not deprecated"
+        final="false"
+        name="toggleTOrch"
+        native="false"
+        return="void"
+        jni-return="V"
+        static="true"
+        synchronized="false"
+        visibility="public"
+        bridge="false"
+        synthetic="false"
+        jni-signature="(Z)V">
+        <parameter
+          name="enable"
+          type="boolean"
+          jni-type="Z" />
+      </method>
+    </class>
+    <interface
+      abstract="true"
+      deprecated="not deprecated"
+      final="false"
+      name="CustomScanner.ResultListener"
+      jni-signature="Lcom/skupad/scanner/CustomScanner$ResultListener;"
+      source-file-name="CustomScanner.java"
+      static="true"
+      visibility="public">
+      <method
+        abstract="true"
+        deprecated="not deprecated"
+        final="false"
+        name="onScanned"
+        native="false"
+        return="void"
+        jni-return="V"
+        static="false"
+        synchronized="false"
+        visibility="public"
+        bridge="false"
+        synthetic="false"
+        jni-signature="(Ljava/lang/String;)V">
+        <parameter
+          name="p0"
+          type="java.lang.String"
+          jni-type="Ljava/lang/String;" />
+      </method>
+    </interface>
+  </package>
+</api>

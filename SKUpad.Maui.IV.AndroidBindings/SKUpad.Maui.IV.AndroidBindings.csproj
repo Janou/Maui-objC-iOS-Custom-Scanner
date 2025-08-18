@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net9.0-android</TargetFramework>
+    <SupportedOSPlatformVersion>24.0</SupportedOSPlatformVersion>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <!--
+      Enable trim analyzers for Android class libraries.
+      To learn more, see: https://learn.microsoft.com/dotnet/core/deploying/trimming/prepare-libraries-for-trimming
+    -->
+    <IsTrimmable>true</IsTrimmable>
+    <!--
+      NOTE: you can simply add .aar or .jar files in this directory to be included in the project.
+      To learn more, see: https://learn.microsoft.com/dotnet/maui/migration/android-binding-projects
+    -->
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <JavaLibraryReference Include="com.google.mlkit:barcode-scanning:17.0.3" />
+    <JavaLibraryReference Include="androidx.camera:camera-core:1.1.0" />
+    <JavaLibraryReference Include="androidx.camera:camera-camera2:1.1.0" />
+    <JavaLibraryReference Include="androidx.camera:camera-lifecycle:1.1.0" />
+    <JavaLibraryReference Include="androidx.camera:camera-view:1.0.0-alpha30" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <Folder Include="Jars\src\com\skupad\scanner\" />
+  </ItemGroup>
+</Project>

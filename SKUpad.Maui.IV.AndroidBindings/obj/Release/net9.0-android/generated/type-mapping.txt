@@ -1,0 +1,4 @@
+com/skupad/scanner/CustomScanner = Com.Skupad.Scanner.CustomScanner
+  <init>()V = .ctor()
+  startScanner(Landroid/app/Activity;IIIILcom/skupad/scanner/CustomScanner$ResultListener;)V = StartScanner(Android.App.Activity, int, int, int, int, Com.Skupad.Scanner.CustomScanner.IResultListener)
+  toggleTOrch(Z)V = ToggleTOrch(bool)

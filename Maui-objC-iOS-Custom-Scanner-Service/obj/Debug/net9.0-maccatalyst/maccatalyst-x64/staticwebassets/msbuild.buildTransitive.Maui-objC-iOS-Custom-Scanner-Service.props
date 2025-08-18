@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Maui-objC-iOS-Custom-Scanner-Service.props" />
+</Project>

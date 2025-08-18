@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\papaj\\source\\repos\\Maui-objC-iOS-Custom-Scanner-Service\\SKUpad.Maui.IV.AndroidBindings\\SKUpad.Maui.IV.AndroidBindings.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\papaj\\source\\repos\\Maui-objC-iOS-Custom-Scanner-Service\\SKUpad.Maui.IV.AndroidBindings\\SKUpad.Maui.IV.AndroidBindings.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\papaj\\source\\repos\\Maui-objC-iOS-Custom-Scanner-Service\\SKUpad.Maui.IV.AndroidBindings\\SKUpad.Maui.IV.AndroidBindings.csproj",
+        "projectName": "SKUpad.Maui.IV.AndroidBindings",
+        "projectPath": "C:\\Users\\papaj\\source\\repos\\Maui-objC-iOS-Custom-Scanner-Service\\SKUpad.Maui.IV.AndroidBindings\\SKUpad.Maui.IV.AndroidBindings.csproj",
+        "packagesPath": "C:\\Users\\papaj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\papaj\\source\\repos\\Maui-objC-iOS-Custom-Scanner-Service\\SKUpad.Maui.IV.AndroidBindings\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\papaj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0-android"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Progress\\Telerik Collection NuGet Package R2 2023 SP2": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0-android35.0": {
+            "targetAlias": "net9.0-android",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0-android35.0": {
+          "targetAlias": "net9.0-android",
+          "dependencies": {
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.8, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.Android": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

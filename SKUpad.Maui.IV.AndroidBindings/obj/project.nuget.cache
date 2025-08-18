@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CuBxog2ENXM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\papaj\\source\\repos\\Maui-objC-iOS-Custom-Scanner-Service\\SKUpad.Maui.IV.AndroidBindings\\SKUpad.Maui.IV.AndroidBindings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\papaj\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.8\\microsoft.net.illink.tasks.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

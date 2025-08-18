@@ -1,0 +1,23 @@
+<api api-source="JavaTypeSystem">
+  <package name="com.skupad.scanner" jni-name="com/skupad/scanner">
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" jni-extends="Ljava/lang/Object;" final="false" name="CustomScanner" static="false" visibility="public" jni-signature="Lcom/skupad/scanner/CustomScanner;">
+      <constructor deprecated="not deprecated" final="false" name="CustomScanner" jni-signature="()V" bridge="false" static="false" type="com.skupad.scanner.CustomScanner" synthetic="false" visibility="public" />
+      <method abstract="false" deprecated="not deprecated" final="false" name="startScanner" jni-signature="(Landroid/app/Activity;IIIILcom/skupad/scanner/CustomScanner$ResultListener;)V" bridge="false" native="false" return="void" jni-return="V" static="true" synchronized="false" synthetic="false" visibility="public">
+        <parameter name="activity" type="android.app.Activity" jni-type="Landroid/app/Activity;" />
+        <parameter name="x" type="int" jni-type="I" />
+        <parameter name="y" type="int" jni-type="I" />
+        <parameter name="width" type="int" jni-type="I" />
+        <parameter name="height" type="int" jni-type="I" />
+        <parameter name="listener" type="com.skupad.scanner.CustomScanner.ResultListener" jni-type="Lcom/skupad/scanner/CustomScanner$ResultListener;" />
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="toggleTOrch" jni-signature="(Z)V" bridge="false" native="false" return="void" jni-return="V" static="true" synchronized="false" synthetic="false" visibility="public">
+        <parameter name="enable" type="boolean" jni-type="Z" />
+      </method>
+    </class>
+    <interface abstract="true" deprecated="not deprecated" final="false" name="CustomScanner.ResultListener" static="true" visibility="public" jni-signature="Lcom/skupad/scanner/CustomScanner$ResultListener;">
+      <method abstract="true" deprecated="not deprecated" final="false" name="onScanned" jni-signature="(Ljava/lang/String;)V" bridge="false" native="false" return="void" jni-return="V" static="false" synchronized="false" synthetic="false" visibility="public">
+        <parameter name="p0" type="java.lang.String" jni-type="Ljava/lang/String;" />
+      </method>
+    </interface>
+  </package>
+</api>

@@ -1,0 +1,8 @@
+wwwroot\css\app.css
+wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\index.html
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\Maui-objC-iOS-Custom-Scanner-Service\wwwroot\css\app.css
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\Maui-objC-iOS-Custom-Scanner-Service\wwwroot\css\bootstrap\bootstrap.min.css
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\Maui-objC-iOS-Custom-Scanner-Service\wwwroot\css\bootstrap\bootstrap.min.css.map
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\Maui-objC-iOS-Custom-Scanner-Service\wwwroot\index.html

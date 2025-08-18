@@ -1,0 +1,84 @@
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\bin\Debug\net9.0-android\app-debug.aar
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\bin\Debug\net9.0-android\SKUpad.Maui.IV.AndroidBindings.dll
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\bin\Debug\net9.0-android\SKUpad.Maui.IV.AndroidBindings.pdb
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\bin\Debug\net9.0-android\SKUpad.Maui.IV.AndroidBindings.apk
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\bin\Debug\net9.0-android\SKUpad.Maui.IV.AndroidBindings.aab
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\bin\Debug\net9.0-android\SKUpad.Maui.IV.AndroidBindings-Signed.aab
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\bin\Debug\net9.0-android\SKUpad.Maui.IV.AndroidBindings-Signed.apk
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\bin\Debug\net9.0-android\SKUpad.Maui.IV.AndroidBindings-Signed.apk.idsig
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\build.props
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\adb.props
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\_CompileBindingJava.FileList.txt
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\libraryprojectimports.cache
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\__Microsoft.Android.Resource.Designer.cs
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\res.flag
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\R.txt
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\_Microsoft.Android.Resource.Designer.dll
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\R.cs.flag
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\class-parse.rsp
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\generated\src\Com.Skupad.Scanner.CustomScanner.cs
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\generated\src\Java.Interop.__TypeRegistrations.cs
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\generated\src\__NamespaceMapping__.cs
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\generated\src\SKUpad.Maui.IV.AndroidBindings.projitems
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\stamp\generator.stamp
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\SKUpad.Maui.IV.AndroidBindings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\SKUpad.Maui.IV.AndroidBindings.AssemblyInfoInputs.cache
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\SKUpad.Maui.IV.AndroidBindings.AssemblyInfo.cs
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\SKUpad.Maui.IV.AndroidBindings.csproj.CoreCompileInputs.cache
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\SKUpad.Maui.IV.AndroidBindings.dll
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\refint\SKUpad.Maui.IV.AndroidBindings.dll
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\SKUpad.Maui.IV.AndroidBindings.pdb
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\ref\SKUpad.Maui.IV.AndroidBindings.dll
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\android\bin\SKUpad.Maui.IV.AndroidBindings.apk
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\android\bin\base.zip
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\android\bin\SKUpad.Maui.IV.AndroidBindings.aab
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\android\bin\SKUpad.Maui.IV.AndroidBindings.apks
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\uploadflags.txt
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\stamp\_CleanIntermediateIfNeeded.stamp
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\stamp\_ConvertResourcesCases.stamp
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\stamp\_ExtractAar.stamp
+C:\Users\papaj\source\repos\Revsmart Coaching Group 2025-07-27\aspnet-core_2025-07-27\src\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\bin\Debug\net9.0-android\app-debug.aar
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\bin\Debug\net9.0-android\SKUpad.Maui.IV.AndroidBindings.dll
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\bin\Debug\net9.0-android\SKUpad.Maui.IV.AndroidBindings.pdb
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\bin\Debug\net9.0-android\SKUpad.Maui.IV.AndroidBindings.apk
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\bin\Debug\net9.0-android\SKUpad.Maui.IV.AndroidBindings.aab
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\bin\Debug\net9.0-android\SKUpad.Maui.IV.AndroidBindings-Signed.aab
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\bin\Debug\net9.0-android\SKUpad.Maui.IV.AndroidBindings-Signed.apk
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\bin\Debug\net9.0-android\SKUpad.Maui.IV.AndroidBindings-Signed.apk.idsig
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\build.props
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\adb.props
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\_CompileBindingJava.FileList.txt
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\libraryprojectimports.cache
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\__Microsoft.Android.Resource.Designer.cs
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\res.flag
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\R.txt
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\_Microsoft.Android.Resource.Designer.dll
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\R.cs.flag
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\class-parse.rsp
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\generated\src\Com.Skupad.Scanner.CustomScanner.cs
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\generated\src\Java.Interop.__TypeRegistrations.cs
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\generated\src\__NamespaceMapping__.cs
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\generated\src\SKUpad.Maui.IV.AndroidBindings.projitems
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\stamp\generator.stamp
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\SKUpad.Maui.IV.AndroidBindings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\SKUpad.Maui.IV.AndroidBindings.AssemblyInfoInputs.cache
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\SKUpad.Maui.IV.AndroidBindings.AssemblyInfo.cs
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\SKUpad.Maui.IV.AndroidBindings.csproj.CoreCompileInputs.cache
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\SKUpad.Maui.IV.AndroidBindings.dll
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\refint\SKUpad.Maui.IV.AndroidBindings.dll
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\SKUpad.Maui.IV.AndroidBindings.pdb
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\ref\SKUpad.Maui.IV.AndroidBindings.dll
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\android\bin\SKUpad.Maui.IV.AndroidBindings.apk
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\android\bin\base.zip
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\android\bin\SKUpad.Maui.IV.AndroidBindings.aab
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\android\bin\SKUpad.Maui.IV.AndroidBindings.apks
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\uploadflags.txt
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\stamp\_CleanIntermediateIfNeeded.stamp
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\stamp\_ConvertResourcesCases.stamp
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\stamp\_ExtractAar.stamp
+C:\Users\papaj\source\repos\Maui-objC-iOS-Custom-Scanner-Service\SKUpad.Maui.IV.AndroidBindings\obj\Debug\net9.0-android\stamp\_ResolveLibraryProjectImports.stamp
